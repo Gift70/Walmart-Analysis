@@ -3,24 +3,36 @@
 This dataset contains 1,000 rows and 12 columns, detailing Walmart's sales data. Here's a quick breakdown of the columns:
 
 Invoice ID: Unique identifier for each transaction.
+
 Branch & City: Store branch and its city location.
+
 Customer Type & Gender: Whether customers are "Member" or "Normal" and their gender.
+
 Product Line: Categories of products sold.
+
 Unit Price & Quantity: Price per unit and quantity sold.
+
 Date & Time: Transaction details.
+
 Payment: Payment method used (eWallet, Credit Card, or Cash).
+
 Rating: Customer satisfaction rating for the transaction.
 
 **OVERVIEW**
 Retail is driven by data—and this project demonstrates how insights from sales data can unlock growth and operational efficiency. Using Power BI, I analyzed Walmart’s transactional data to uncover key trends in product performance, customer behavior, and branch-level operations.
 
 **TECHNOLOGIES USED**
+
 Tool: Power BI (Interactive dashboards and visuals)
+
 Dataset: Walmart Sales Dataset (Transaction-level data)
 
 **FEATURES**
+
 Dynamic dashboards showcasing product, branch, and payment performance.
+
 Sales trend analysis to identify opportunities for operational efficiency
+
 Actionable insights to guide marketing, inventory, and operational strategies.
 
 **KEY FINDINGS**
@@ -55,8 +67,11 @@ Bundle Offers: Pair high-demand items (e.g., Food and Beverages) with underperfo
 Inventory Planning: Use historical trends to stock high-demand items before peak sales days, minimizing out-of-stock situations.
 
 **TAKEAWAYS**:
-This project showcases the transformative power of data visualization in retail analytics. By addressing these gaps and leveraging these data-driven insights, Walmart can strengthen its competitive edge, drive higher revenue, and sustain long-term growth.
+This project showcases the transformative power of data visualization in retail analytics. 
+By addressing these gaps and leveraging these data-driven insights, Walmart can strengthen its competitive edge, drive higher revenue, and sustain long-term growth.
 
 Let’s collaborate and exchange ideas! Feel free to connect with me:
+
 LinkedIn: https://www.linkedin.com/in/giftchisom
+
 GitHub: https://www.github.com/Gift70
